@@ -6,7 +6,9 @@
 
 </p>
 
-
+# MEMBERSS:
+# Q&A AND TEAM LEADER: MR.ADITYA JAGDISH LINGANWAR 
+# HELPING MEMBERS: SHUBHAM, NISHANT, RUGVED, SAKSHI
 
 Vishu is an open-source project for detecting AI-generated contents. The core features will include:
 * The weights, training code and evaluation code for state-of-the-art AI-generated contents detection models.
@@ -130,16 +132,14 @@ We provide visualizations for our dataset, which you can find [here](assets/visu
 
 ## Maintenance Plan
 We are currently in the process of expanding our support to include two of the latest models for the fake image dataset: Stable Diffusion XL and Midjourney V5. We have devised a comprehensive maintenance plan, as follows:
-- [x] (2023.7) Release the [training, validation datasets](https://huggingface.co/datasets/InfImagine/FakeImageDataset) from MPBench.
-- [x] (2023.8) Release an open [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSfhYMAEnqsaxQPNfLqFEpnFxEUqBhmUoRyfPBfYVfZOx4MtLA/viewform?usp=sharing) from HPBench!
-- [ ] (2023.9) Support Stable Diffusion XL fake image dataset
-- [ ] (2023.9) Release the training and evaluation code of Sentry-Image.
-- [ ] (2023.10) Support Midjourney V5 fake image datset
-- [ ] (2023.10) Release a new test datasets for Sentry-Image-Leaderboard.
+- [x] (2025.7) Release the [training, validation datasets](https://huggingface.co/datasets/InfImagine/FakeImageDataset) from MPBench.
+- [x] (2025.8) Release an open [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSfhYMAEnqsaxQPNfLqFEpnFxEUqBhmUoRyfPBfYVfZOx4MtLA/viewform?usp=sharing) from HPBench!
+- [ ] (2025.9) Support Stable Diffusion XL fake image dataset
+- [ ] (2025.9) Release the training and evaluation code of Sentry-Image.
+- [ ] (2025.10) Support Midjourney V5 fake image datset
+- [ ] (2025.10) Release a new test datasets for VISHU-Image-Leaderboard.
 
 
-## License
-This project is open-sourced under the [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0). These weights and datasets are fully open for academic research and can be used for commercial purposes with official written permission. If you find our open-source models and datasets useful for your business, we welcome your donation to support the development of the next-generation Sentry-Image model. Please contact [contact@infimagine.com](contact@infimagine.com) for commercial licensing and donation inquiries.
 
 ## Citation
 The code and model in this repository is mostly developed for or derived from the paper below. Please cite it if you find the repository helpful.

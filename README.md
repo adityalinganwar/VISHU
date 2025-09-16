@@ -1,31 +1,32 @@
-![Sentry-Image](assets/Sentry-Image-logo.png)
+![Sentry-Image](assets/VISHU-Image-logo.png)
 
-# Sentry-Image: Detect Any AI-generated Images
+# VISHU: Detect Any AI-generated Images And Videos
 <p align="center">
-📃 <a href="https://arxiv.org/abs/2304.13023" target="_blank">NeurIPS'23 Paper</a> • 🤗 <a href="http://sentry.infimagine.com/" target="_blank">Demo & Leaderboard</a> • 📋 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhYMAEnqsaxQPNfLqFEpnFxEUqBhmUoRyfPBfYVfZOx4MtLA/viewform?usp=sharing" target="_blank">Sentry-Questionnaire</a>  • 🐦 <a href="https://twitter.com/infimagine/status/1680439942063992832" target="_blank">Twitter</a> • 📦 <a href="https://huggingface.co/datasets/InfImagine/FakeImageDataset" target="_blank">Dataset</a> <br>
+📃 <a href="https://arxiv.org/abs/2304.13023" target="_blank">NeurIPS'23 Paper</a> • 🤗 <a href="http://sentry.infimagine.com/" target="_blank">Demo & Leaderboard</a> • 📋 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhYMAEnqsaxQPNfLqFEpnFxEUqBhmUoRyfPBfYVfZOx4MtLA/viewform?usp=sharing" target="_blank">vishu-Questionnaire</a>  • 🐦 <a href="https://twitter.com/infimagine/status/1680439942063992832" target="_blank">Twitter</a> • 📦 <a href="https://huggingface.co/datasets/InfImagine/FakeImageDataset" target="_blank">Dataset</a> <br>
 
 </p>
 
 
 
-Sentry-Image is an open-source project for detecting AI-generated contents. The core features will include:
+Vishu is an open-source project for detecting AI-generated contents. The core features will include:
 * The weights, training code and evaluation code for state-of-the-art AI-generated contents detection models.
-* The training, validation and test [datasets](https://huggingface.co/datasets/InfImagine/FakeImageDataset) for [Sentry-Image Leaderboard](http://sentry.infimagine.com/).
-* An open [questionnaire(Sentry-Questionnaire)](https://docs.google.com/forms/d/e/1FAIpQLSfhYMAEnqsaxQPNfLqFEpnFxEUqBhmUoRyfPBfYVfZOx4MtLA/viewform?usp=sharing) from HPBench.
+* The training, validation and test [datasets](https://huggingface.co/datasets/InfImagine/FakeImageDataset) for [vishu-Image Leaderboard](http://vishu.infimagine.com/).
+* An open [questionnaire(Vishu-Questionnaire)](https://docs.google.com/forms/d/e/1FAIpQLSfhYMAEnqsaxQPNfLqFEpnFxEUqBhmUoRyfPBfYVfZOx4MtLA/viewform?usp=sharing) from HPBench.
 
-Why we need Sentry-Image?
+Why we need VISHU- AI?
 * 🧐 Recent [study](https://arxiv.org/abs/2304.13023) have shown that humans struggle significantly to distinguish real photos from AI-generated ones, with a misclassification rate of **38.7%**.
 
-* 🤗 To help people confirm whether the images they see are real images or AI-generated images, we launched the Sentry-Image project.
+* 🤗 To help people confirm whether the images they see are real images or AI-generated images, we launched the VISHU-AI DETECTOR project.
 
-* 💻 Sentry-Image is an open source project which provides the SOTA fake image detection models in [Sentry-Image Leaderboard](http://sentry.infimagine.com/) to detect whether the image provided is an AI-generated or real image.
+* 💻 VISHU AI is an open source project which provides the SOTA fake image detection models in [ VISHU AI Leaderboard](http://VISHU.infimagine.com/) to detect whether the image provided is an AI-generated or real image.
 
 Stay tuned for this project! Feel free to contact [contact@infimagine.com](contact@infimagine.com)! 😆 
 
 ## News
-* [2023/07] We open source the [Sentry-Image repository](https://github.com/Inf-imagine/Sentry) and [Sentry-Image Demo & Leaderboard](http://sentry.infimagine.com/). 
-* [2023/07] We open source the [Sentry-Image dataset](https://huggingface.co/datasets/InfImagine/FakeImageDataset). 
-* [2023/08] We provide an open [questionnaire(Sentry-Questionnaire)](https://docs.google.com/forms/d/e/1FAIpQLSfhYMAEnqsaxQPNfLqFEpnFxEUqBhmUoRyfPBfYVfZOx4MtLA/viewform?usp=sharing) from HPBench! Now everyone can test your discriminant score against AIGC!
+* [2025/07] We open source the  [VISHU AI repository](https://github.com/Inf-imagine/Sentry) and [ VISHU AI Demo & Leaderboard](http://sentry.infimagine.com/). 
+* [2025/07] We open source the [ VISHU AI dataset](https://huggingface.co/datasets/InfImagine/FakeImageDataset). 
+* [2025/08] We provide an open [questionnaire( VISHU AI
+* -Questionnaire)](https://docs.google.com/forms/d/e/1FAIpQLSfhYMAEnqsaxQPNfLqFEpnFxEUqBhmUoRyfPBfYVfZOx4MtLA/viewform?usp=sharing) from HPBench! Now everyone can test your discriminant score against AIGC!
 
 
 ## Fake Image Dataset
